@@ -1,1 +1,2 @@
 This is the first line in test2
+Line-2 added in master branch: test for non fast-forward
